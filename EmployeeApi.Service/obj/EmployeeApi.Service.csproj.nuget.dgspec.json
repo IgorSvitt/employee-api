@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Service\\EmployeeApi.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Dal\\EmployeeApi.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Dal\\EmployeeApi.Dal.csproj",
+        "projectName": "EmployeeApi.Dal",
+        "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Dal\\EmployeeApi.Dal.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj",
+        "projectName": "EmployeeApi.Domain",
+        "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj",
+        "projectName": "EmployeeApi.Repository",
+        "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Dal\\EmployeeApi.Dal.csproj": {
+                "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Dal\\EmployeeApi.Dal.csproj"
+              },
+              "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj": {
+                "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Service\\EmployeeApi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Service\\EmployeeApi.Service.csproj",
+        "projectName": "EmployeeApi.Service",
+        "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Service\\EmployeeApi.Service.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj": {
+                "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj"
+              },
+              "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
+                "projectPath": "C:\\Projects\\kodalib\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

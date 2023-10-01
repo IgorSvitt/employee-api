@@ -1,0 +1,17 @@
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\bin\Debug\net6.0\EmployeeApi.Repository.deps.json
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\bin\Debug\net6.0\EmployeeApi.Repository.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\bin\Debug\net6.0\EmployeeApi.Repository.pdb
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\bin\Debug\net6.0\EmployeeApi.Dal.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\bin\Debug\net6.0\EmployeeApi.Domain.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\bin\Debug\net6.0\EmployeeApi.Dal.pdb
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\bin\Debug\net6.0\EmployeeApi.Domain.pdb
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.csproj.AssemblyReference.cache
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.AssemblyInfoInputs.cache
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.AssemblyInfo.cs
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.csproj.CopyComplete
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\refint\EmployeeApi.Repository.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\EmployeeApi.Repository.pdb
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Repository\obj\Debug\net6.0\ref\EmployeeApi.Repository.dll

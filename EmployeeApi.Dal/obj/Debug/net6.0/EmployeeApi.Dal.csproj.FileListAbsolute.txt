@@ -1,0 +1,16 @@
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\bin\Debug\net6.0\EmployeeApi.Dal.deps.json
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\bin\Debug\net6.0\EmployeeApi.Dal.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\bin\Debug\net6.0\EmployeeApi.Dal.pdb
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.csproj.AssemblyReference.cache
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.AssemblyInfoInputs.cache
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.AssemblyInfo.cs
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.csproj.CoreCompileInputs.cache
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.csproj.CopyComplete
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\refint\EmployeeApi.Dal.dll
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\EmployeeApi.Dal.pdb
+C:\Projects\kodalib\EmployeeApi\EmployeeApi.Dal\obj\Debug\net6.0\ref\EmployeeApi.Dal.dll
